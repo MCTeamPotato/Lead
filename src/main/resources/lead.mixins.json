@@ -1,0 +1,15 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "com.teampotato.lead.mixin",
+    "plugin": "com.teampotato.lead.mixin.LeadMixinPlugin",
+    "compatibilityLevel": "JAVA_8",
+    "refmap": "lead.refmap.json",
+    "mixins": [
+    ],
+    "client": [
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+  }
